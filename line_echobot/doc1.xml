@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cwbopendata xmlns="urn:cwb:gov:tw:cwbcommon:0.1">
-    <identifier >6a77d535-af41-788c-7e4f-774afce7844a</identifier>
+    <identifier >4970201d-fbab-7b93-3511-16d617be0442</identifier>
     <sender >weather@cwb.gov.tw</sender>
-    <sent >2016-12-23T05:09:04+08:00</sent>
+    <sent >2016-12-25T22:06:04+08:00</sent>
     <status >Actual</status>
     <msgType >Issue</msgType>
     <source >MFC</source>
@@ -11,61 +11,61 @@
     <dataset >
         <datasetInfo>
             <datasetDescription>三十六小時天氣預報</datasetDescription>
-            <issueTime>2016-12-23T05:00:00+08:00</issueTime>
-            <update>2016-12-23T05:09:04+08:00</update>
+            <issueTime>2016-12-25T23:00:00+08:00</issueTime>
+            <update>2016-12-25T22:06:04+08:00</update>
 </datasetInfo>
         <location>
             <locationName>臺北市</locationName>
             <weatherElement>
                 <elementName>Wx</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>晴時多雲</parameterName>
                         <parameterValue>8</parameterValue>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>多雲時晴</parameterName>
-                        <parameterValue>7</parameterValue>
+                        <parameterName>晴時多雲</parameterName>
+                        <parameterValue>8</parameterValue>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>多雲</parameterName>
-                        <parameterValue>2</parameterValue>
+                        <parameterName>多雲短暫雨</parameterName>
+                        <parameterValue>12</parameterValue>
 </parameter>
 </time>
 </weatherElement>
             <weatherElement>
                 <elementName>MaxT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
-                    <parameter>
-                        <parameterName>20</parameterName>
-                        <parameterUnit>C</parameterUnit>
-</parameter>
-</time>
-                <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
-                    <parameter>
-                        <parameterName>18</parameterName>
-                        <parameterUnit>C</parameterUnit>
-</parameter>
-</time>
-                <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>22</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>29</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>24</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
@@ -73,26 +73,26 @@
             <weatherElement>
                 <elementName>MinT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>16</parameterName>
+                        <parameterName>20</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>15</parameterName>
+                        <parameterName>20</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>15</parameterName>
+                        <parameterName>19</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
@@ -100,50 +100,50 @@
             <weatherElement>
                 <elementName>CI</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>稍有寒意</parameterName>
+                        <parameterName>稍有寒意至舒適</parameterName>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>寒冷至稍有寒意</parameterName>
+                        <parameterName>稍有寒意至舒適</parameterName>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>寒冷至舒適</parameterName>
+                        <parameterName>稍有寒意至舒適</parameterName>
 </parameter>
 </time>
 </weatherElement>
             <weatherElement>
                 <elementName>PoP</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>0</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>0</parameterName>
+                        <parameterName>10</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>0</parameterName>
+                        <parameterName>40</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
@@ -154,51 +154,51 @@
             <weatherElement>
                 <elementName>Wx</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>晴時多雲</parameterName>
                         <parameterValue>8</parameterValue>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>晴時多雲</parameterName>
                         <parameterValue>8</parameterValue>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>晴時多雲</parameterName>
-                        <parameterValue>8</parameterValue>
+                        <parameterName>多雲短暫雨</parameterName>
+                        <parameterValue>12</parameterValue>
 </parameter>
 </time>
 </weatherElement>
             <weatherElement>
                 <elementName>MaxT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>21</parameterName>
+                        <parameterName>22</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>18</parameterName>
+                        <parameterName>29</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>23</parameterName>
                         <parameterUnit>C</parameterUnit>
@@ -208,26 +208,26 @@
             <weatherElement>
                 <elementName>MinT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>17</parameterName>
+                        <parameterName>20</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>15</parameterName>
+                        <parameterName>20</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>15</parameterName>
+                        <parameterName>19</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
@@ -235,50 +235,50 @@
             <weatherElement>
                 <elementName>CI</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>稍有寒意</parameterName>
+                        <parameterName>稍有寒意至舒適</parameterName>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>寒冷至稍有寒意</parameterName>
+                        <parameterName>稍有寒意至舒適</parameterName>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>寒冷至舒適</parameterName>
+                        <parameterName>稍有寒意至舒適</parameterName>
 </parameter>
 </time>
 </weatherElement>
             <weatherElement>
                 <elementName>PoP</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>0</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>0</parameterName>
+                        <parameterName>10</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>0</parameterName>
+                        <parameterName>70</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
@@ -289,53 +289,53 @@
             <weatherElement>
                 <elementName>Wx</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>晴時多雲</parameterName>
                         <parameterValue>8</parameterValue>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>晴時多雲</parameterName>
                         <parameterValue>8</parameterValue>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>晴時多雲</parameterName>
-                        <parameterValue>8</parameterValue>
+                        <parameterName>多雲短暫雨</parameterName>
+                        <parameterValue>12</parameterValue>
 </parameter>
 </time>
 </weatherElement>
             <weatherElement>
                 <elementName>MaxT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>21</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>18</parameterName>
+                        <parameterName>27</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>23</parameterName>
+                        <parameterName>22</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
@@ -343,26 +343,26 @@
             <weatherElement>
                 <elementName>MinT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>16</parameterName>
+                        <parameterName>19</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>15</parameterName>
+                        <parameterName>19</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>15</parameterName>
+                        <parameterName>18</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
@@ -370,50 +370,50 @@
             <weatherElement>
                 <elementName>CI</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>稍有寒意</parameterName>
+                        <parameterName>稍有寒意至舒適</parameterName>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>寒冷至稍有寒意</parameterName>
+                        <parameterName>稍有寒意至舒適</parameterName>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>寒冷至舒適</parameterName>
+                        <parameterName>稍有寒意至舒適</parameterName>
 </parameter>
 </time>
 </weatherElement>
             <weatherElement>
                 <elementName>PoP</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
-                    <parameter>
-                        <parameterName>10</parameterName>
-                        <parameterUnit>百分比</parameterUnit>
-</parameter>
-</time>
-                <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>0</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>0</parameterName>
+                        <parameterUnit>百分比</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>70</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
@@ -424,53 +424,53 @@
             <weatherElement>
                 <elementName>Wx</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>晴時多雲</parameterName>
                         <parameterValue>8</parameterValue>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>晴時多雲</parameterName>
                         <parameterValue>8</parameterValue>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>晴時多雲</parameterName>
-                        <parameterValue>8</parameterValue>
+                        <parameterName>多雲時晴</parameterName>
+                        <parameterValue>7</parameterValue>
 </parameter>
 </time>
 </weatherElement>
             <weatherElement>
                 <elementName>MaxT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>25</parameterName>
+                        <parameterName>19</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>21</parameterName>
+                        <parameterName>28</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>27</parameterName>
+                        <parameterName>23</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
@@ -478,26 +478,26 @@
             <weatherElement>
                 <elementName>MinT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>18</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>18</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>17</parameterName>
+                        <parameterName>18</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
@@ -505,22 +505,22 @@
             <weatherElement>
                 <elementName>CI</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>稍有寒意</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>稍有寒意至舒適</parameterName>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
-                    <parameter>
-                        <parameterName>稍有寒意至舒適</parameterName>
-</parameter>
-</time>
-                <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>稍有寒意至舒適</parameterName>
 </parameter>
@@ -529,24 +529,24 @@
             <weatherElement>
                 <elementName>PoP</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
-                    <parameter>
-                        <parameterName>10</parameterName>
-                        <parameterUnit>百分比</parameterUnit>
-</parameter>
-</time>
-                <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>0</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>0</parameterName>
+                        <parameterUnit>百分比</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>0</parameterName>
                         <parameterUnit>百分比</parameterUnit>
@@ -559,53 +559,53 @@
             <weatherElement>
                 <elementName>Wx</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>晴時多雲</parameterName>
                         <parameterValue>8</parameterValue>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>晴時多雲</parameterName>
                         <parameterValue>8</parameterValue>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>晴時多雲</parameterName>
-                        <parameterValue>8</parameterValue>
+                        <parameterName>多雲</parameterName>
+                        <parameterValue>2</parameterValue>
 </parameter>
 </time>
 </weatherElement>
             <weatherElement>
                 <elementName>MaxT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>25</parameterName>
+                        <parameterName>21</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>22</parameterName>
+                        <parameterName>27</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>25</parameterName>
+                        <parameterName>23</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
@@ -613,26 +613,26 @@
             <weatherElement>
                 <elementName>MinT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>18</parameterName>
+                        <parameterName>19</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>18</parameterName>
+                        <parameterName>19</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>18</parameterName>
+                        <parameterName>20</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
@@ -640,48 +640,48 @@
             <weatherElement>
                 <elementName>CI</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>稍有寒意至舒適</parameterName>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>稍有寒意至舒適</parameterName>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>稍有寒意至舒適</parameterName>
+                        <parameterName>舒適</parameterName>
 </parameter>
 </time>
 </weatherElement>
             <weatherElement>
                 <elementName>PoP</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
-                    <parameter>
-                        <parameterName>10</parameterName>
-                        <parameterUnit>百分比</parameterUnit>
-</parameter>
-</time>
-                <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>0</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>0</parameterName>
+                        <parameterUnit>百分比</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>0</parameterName>
                         <parameterUnit>百分比</parameterUnit>
@@ -694,24 +694,24 @@
             <weatherElement>
                 <elementName>Wx</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>晴時多雲</parameterName>
                         <parameterValue>8</parameterValue>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>多雲時陰</parameterName>
-                        <parameterValue>5</parameterValue>
+                        <parameterName>晴時多雲</parameterName>
+                        <parameterValue>8</parameterValue>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>多雲</parameterName>
                         <parameterValue>2</parameterValue>
@@ -721,24 +721,24 @@
             <weatherElement>
                 <elementName>MaxT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>24</parameterName>
+                        <parameterName>21</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>22</parameterName>
+                        <parameterName>27</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>25</parameterName>
                         <parameterUnit>C</parameterUnit>
@@ -748,24 +748,24 @@
             <weatherElement>
                 <elementName>MinT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>20</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>20</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>20</parameterName>
                         <parameterUnit>C</parameterUnit>
@@ -775,48 +775,48 @@
             <weatherElement>
                 <elementName>CI</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>稍有寒意至舒適</parameterName>
+                        <parameterName>舒適</parameterName>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>稍有寒意至舒適</parameterName>
+                        <parameterName>舒適</parameterName>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>稍有寒意至舒適</parameterName>
+                        <parameterName>舒適</parameterName>
 </parameter>
 </time>
 </weatherElement>
             <weatherElement>
                 <elementName>PoP</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>10</parameterName>
+                        <parameterName>0</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>10</parameterName>
+                        <parameterName>0</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>0</parameterName>
                         <parameterUnit>百分比</parameterUnit>
@@ -829,53 +829,53 @@
             <weatherElement>
                 <elementName>Wx</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>晴時多雲</parameterName>
                         <parameterValue>8</parameterValue>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>多雲時陰短暫雨</parameterName>
-                        <parameterValue>12</parameterValue>
+                        <parameterName>晴時多雲</parameterName>
+                        <parameterValue>8</parameterValue>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>多雲</parameterName>
-                        <parameterValue>2</parameterValue>
+                        <parameterName>陰時多雲短暫雨</parameterName>
+                        <parameterValue>26</parameterValue>
 </parameter>
 </time>
 </weatherElement>
             <weatherElement>
                 <elementName>MaxT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>19</parameterName>
+                        <parameterName>22</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>17</parameterName>
+                        <parameterName>27</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>21</parameterName>
+                        <parameterName>23</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
@@ -883,26 +883,26 @@
             <weatherElement>
                 <elementName>MinT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>16</parameterName>
+                        <parameterName>21</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>15</parameterName>
+                        <parameterName>21</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>15</parameterName>
+                        <parameterName>19</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
@@ -910,50 +910,50 @@
             <weatherElement>
                 <elementName>CI</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>稍有寒意</parameterName>
+                        <parameterName>舒適</parameterName>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>寒冷至稍有寒意</parameterName>
+                        <parameterName>舒適</parameterName>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>寒冷至舒適</parameterName>
+                        <parameterName>稍有寒意至舒適</parameterName>
 </parameter>
 </time>
 </weatherElement>
             <weatherElement>
                 <elementName>PoP</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>0</parameterName>
+                        <parameterName>10</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>30</parameterName>
+                        <parameterName>10</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>20</parameterName>
+                        <parameterName>60</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
@@ -964,53 +964,53 @@
             <weatherElement>
                 <elementName>Wx</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>晴時多雲</parameterName>
                         <parameterValue>8</parameterValue>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>晴時多雲</parameterName>
                         <parameterValue>8</parameterValue>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>晴時多雲</parameterName>
-                        <parameterValue>8</parameterValue>
+                        <parameterName>多雲</parameterName>
+                        <parameterValue>2</parameterValue>
 </parameter>
 </time>
 </weatherElement>
             <weatherElement>
                 <elementName>MaxT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>22</parameterName>
+                        <parameterName>19</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>18</parameterName>
+                        <parameterName>27</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>25</parameterName>
+                        <parameterName>21</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
@@ -1018,26 +1018,26 @@
             <weatherElement>
                 <elementName>MinT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>16</parameterName>
+                        <parameterName>17</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>16</parameterName>
+                        <parameterName>17</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>15</parameterName>
+                        <parameterName>18</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
@@ -1045,50 +1045,50 @@
             <weatherElement>
                 <elementName>CI</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
-                    <parameter>
-                        <parameterName>稍有寒意至舒適</parameterName>
-</parameter>
-</time>
-                <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>稍有寒意</parameterName>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>寒冷至舒適</parameterName>
+                        <parameterName>稍有寒意至舒適</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>稍有寒意至舒適</parameterName>
 </parameter>
 </time>
 </weatherElement>
             <weatherElement>
                 <elementName>PoP</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
-                    <parameter>
-                        <parameterName>10</parameterName>
-                        <parameterUnit>百分比</parameterUnit>
-</parameter>
-</time>
-                <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>0</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>0</parameterName>
+                        <parameterUnit>百分比</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
@@ -1099,53 +1099,53 @@
             <weatherElement>
                 <elementName>Wx</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>晴時多雲</parameterName>
                         <parameterValue>8</parameterValue>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>晴時多雲</parameterName>
                         <parameterValue>8</parameterValue>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>晴時多雲</parameterName>
-                        <parameterValue>8</parameterValue>
+                        <parameterName>多雲</parameterName>
+                        <parameterValue>2</parameterValue>
 </parameter>
 </time>
 </weatherElement>
             <weatherElement>
                 <elementName>MaxT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>19</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>21</parameterName>
-                        <parameterUnit>C</parameterUnit>
-</parameter>
-</time>
-                <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
-                    <parameter>
-                        <parameterName>18</parameterName>
-                        <parameterUnit>C</parameterUnit>
-</parameter>
-</time>
-                <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
-                    <parameter>
-                        <parameterName>24</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
@@ -1153,26 +1153,26 @@
             <weatherElement>
                 <elementName>MinT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>16</parameterName>
+                        <parameterName>18</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>15</parameterName>
+                        <parameterName>17</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>15</parameterName>
+                        <parameterName>18</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
@@ -1180,50 +1180,50 @@
             <weatherElement>
                 <elementName>CI</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>稍有寒意</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>稍有寒意至舒適</parameterName>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>寒冷至稍有寒意</parameterName>
-</parameter>
-</time>
-                <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
-                    <parameter>
-                        <parameterName>寒冷至舒適</parameterName>
+                        <parameterName>稍有寒意至舒適</parameterName>
 </parameter>
 </time>
 </weatherElement>
             <weatherElement>
                 <elementName>PoP</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
-                    <parameter>
-                        <parameterName>10</parameterName>
-                        <parameterUnit>百分比</parameterUnit>
-</parameter>
-</time>
-                <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>0</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>0</parameterName>
+                        <parameterUnit>百分比</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
@@ -1234,53 +1234,53 @@
             <weatherElement>
                 <elementName>Wx</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>晴時多雲</parameterName>
                         <parameterValue>8</parameterValue>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>晴時多雲</parameterName>
                         <parameterValue>8</parameterValue>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>晴時多雲</parameterName>
-                        <parameterValue>8</parameterValue>
+                        <parameterName>多雲</parameterName>
+                        <parameterValue>2</parameterValue>
 </parameter>
 </time>
 </weatherElement>
             <weatherElement>
                 <elementName>MaxT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
-                    <parameter>
-                        <parameterName>22</parameterName>
-                        <parameterUnit>C</parameterUnit>
-</parameter>
-</time>
-                <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>18</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>25</parameterName>
+                        <parameterName>26</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>21</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
@@ -1288,26 +1288,26 @@
             <weatherElement>
                 <elementName>MinT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>16</parameterName>
+                        <parameterName>17</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>15</parameterName>
+                        <parameterName>17</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>15</parameterName>
+                        <parameterName>17</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
@@ -1315,50 +1315,50 @@
             <weatherElement>
                 <elementName>CI</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>稍有寒意</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>稍有寒意至舒適</parameterName>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>寒冷至稍有寒意</parameterName>
-</parameter>
-</time>
-                <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
-                    <parameter>
-                        <parameterName>寒冷至舒適</parameterName>
+                        <parameterName>稍有寒意至舒適</parameterName>
 </parameter>
 </time>
 </weatherElement>
             <weatherElement>
                 <elementName>PoP</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
-                    <parameter>
-                        <parameterName>10</parameterName>
-                        <parameterUnit>百分比</parameterUnit>
-</parameter>
-</time>
-                <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>0</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>0</parameterName>
+                        <parameterUnit>百分比</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
@@ -1369,53 +1369,53 @@
             <weatherElement>
                 <elementName>Wx</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>晴時多雲</parameterName>
                         <parameterValue>8</parameterValue>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>晴時多雲</parameterName>
                         <parameterValue>8</parameterValue>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>晴時多雲</parameterName>
-                        <parameterValue>8</parameterValue>
+                        <parameterName>多雲時晴</parameterName>
+                        <parameterValue>7</parameterValue>
 </parameter>
 </time>
 </weatherElement>
             <weatherElement>
                 <elementName>MaxT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>24</parameterName>
+                        <parameterName>18</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>21</parameterName>
+                        <parameterName>26</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>25</parameterName>
+                        <parameterName>22</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
@@ -1423,26 +1423,26 @@
             <weatherElement>
                 <elementName>MinT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>18</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>17</parameterName>
+                        <parameterName>18</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>17</parameterName>
+                        <parameterName>18</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
@@ -1450,22 +1450,22 @@
             <weatherElement>
                 <elementName>CI</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
-                    <parameter>
-                        <parameterName>稍有寒意至舒適</parameterName>
-</parameter>
-</time>
-                <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>稍有寒意</parameterName>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>稍有寒意至舒適</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>稍有寒意至舒適</parameterName>
 </parameter>
@@ -1474,24 +1474,24 @@
             <weatherElement>
                 <elementName>PoP</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>0</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>0</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>0</parameterName>
                         <parameterUnit>百分比</parameterUnit>
@@ -1504,53 +1504,53 @@
             <weatherElement>
                 <elementName>Wx</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>晴時多雲</parameterName>
                         <parameterValue>8</parameterValue>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>晴時多雲</parameterName>
                         <parameterValue>8</parameterValue>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>晴時多雲</parameterName>
-                        <parameterValue>8</parameterValue>
+                        <parameterName>多雲時晴</parameterName>
+                        <parameterValue>7</parameterValue>
 </parameter>
 </time>
 </weatherElement>
             <weatherElement>
                 <elementName>MaxT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>25</parameterName>
+                        <parameterName>19</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>21</parameterName>
+                        <parameterName>28</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>26</parameterName>
+                        <parameterName>23</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
@@ -1558,24 +1558,24 @@
             <weatherElement>
                 <elementName>MinT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>17</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>17</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>17</parameterName>
                         <parameterUnit>C</parameterUnit>
@@ -1585,22 +1585,22 @@
             <weatherElement>
                 <elementName>CI</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>稍有寒意</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>稍有寒意至舒適</parameterName>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
-                    <parameter>
-                        <parameterName>稍有寒意至舒適</parameterName>
-</parameter>
-</time>
-                <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>稍有寒意至舒適</parameterName>
 </parameter>
@@ -1609,24 +1609,24 @@
             <weatherElement>
                 <elementName>PoP</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>10</parameterName>
+                        <parameterName>0</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>10</parameterName>
+                        <parameterName>0</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>0</parameterName>
                         <parameterUnit>百分比</parameterUnit>
@@ -1639,53 +1639,53 @@
             <weatherElement>
                 <elementName>Wx</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>晴時多雲</parameterName>
                         <parameterValue>8</parameterValue>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>晴時多雲</parameterName>
                         <parameterValue>8</parameterValue>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>晴時多雲</parameterName>
-                        <parameterValue>8</parameterValue>
+                        <parameterName>多雲時晴</parameterName>
+                        <parameterValue>7</parameterValue>
 </parameter>
 </time>
 </weatherElement>
             <weatherElement>
                 <elementName>MaxT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>25</parameterName>
+                        <parameterName>18</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>20</parameterName>
+                        <parameterName>27</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>26</parameterName>
+                        <parameterName>22</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
@@ -1693,26 +1693,26 @@
             <weatherElement>
                 <elementName>MinT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>17</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>16</parameterName>
+                        <parameterName>17</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>16</parameterName>
+                        <parameterName>18</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
@@ -1720,22 +1720,22 @@
             <weatherElement>
                 <elementName>CI</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
-                    <parameter>
-                        <parameterName>稍有寒意至舒適</parameterName>
-</parameter>
-</time>
-                <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>稍有寒意</parameterName>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>稍有寒意至舒適</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>稍有寒意至舒適</parameterName>
 </parameter>
@@ -1744,24 +1744,24 @@
             <weatherElement>
                 <elementName>PoP</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>10</parameterName>
+                        <parameterName>0</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>10</parameterName>
+                        <parameterName>0</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>0</parameterName>
                         <parameterUnit>百分比</parameterUnit>
@@ -1774,53 +1774,53 @@
             <weatherElement>
                 <elementName>Wx</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>晴時多雲</parameterName>
                         <parameterValue>8</parameterValue>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>晴時多雲</parameterName>
                         <parameterValue>8</parameterValue>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>晴時多雲</parameterName>
-                        <parameterValue>8</parameterValue>
+                        <parameterName>多雲</parameterName>
+                        <parameterValue>2</parameterValue>
 </parameter>
 </time>
 </weatherElement>
             <weatherElement>
                 <elementName>MaxT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>25</parameterName>
+                        <parameterName>18</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>20</parameterName>
+                        <parameterName>27</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>26</parameterName>
+                        <parameterName>22</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
@@ -1828,26 +1828,26 @@
             <weatherElement>
                 <elementName>MinT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>17</parameterName>
+                        <parameterName>18</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>15</parameterName>
+                        <parameterName>18</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>15</parameterName>
+                        <parameterName>18</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
@@ -1855,48 +1855,48 @@
             <weatherElement>
                 <elementName>CI</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>稍有寒意</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>稍有寒意至舒適</parameterName>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>寒冷至稍有寒意</parameterName>
-</parameter>
-</time>
-                <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
-                    <parameter>
-                        <parameterName>寒冷至舒適</parameterName>
+                        <parameterName>稍有寒意至舒適</parameterName>
 </parameter>
 </time>
 </weatherElement>
             <weatherElement>
                 <elementName>PoP</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>10</parameterName>
+                        <parameterName>0</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>10</parameterName>
+                        <parameterName>0</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>0</parameterName>
                         <parameterUnit>百分比</parameterUnit>
@@ -1909,53 +1909,53 @@
             <weatherElement>
                 <elementName>Wx</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>晴時多雲</parameterName>
                         <parameterValue>8</parameterValue>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>晴時多雲</parameterName>
                         <parameterValue>8</parameterValue>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>晴時多雲</parameterName>
-                        <parameterValue>8</parameterValue>
+                        <parameterName>多雲</parameterName>
+                        <parameterValue>2</parameterValue>
 </parameter>
 </time>
 </weatherElement>
             <weatherElement>
                 <elementName>MaxT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>26</parameterName>
+                        <parameterName>19</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>21</parameterName>
+                        <parameterName>28</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>27</parameterName>
+                        <parameterName>23</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
@@ -1963,26 +1963,26 @@
             <weatherElement>
                 <elementName>MinT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>17</parameterName>
+                        <parameterName>18</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>17</parameterName>
+                        <parameterName>18</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>17</parameterName>
+                        <parameterName>18</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
@@ -1990,22 +1990,22 @@
             <weatherElement>
                 <elementName>CI</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>稍有寒意</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>稍有寒意至舒適</parameterName>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
-                    <parameter>
-                        <parameterName>稍有寒意至舒適</parameterName>
-</parameter>
-</time>
-                <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>稍有寒意至舒適</parameterName>
 </parameter>
@@ -2014,24 +2014,24 @@
             <weatherElement>
                 <elementName>PoP</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
-                    <parameter>
-                        <parameterName>10</parameterName>
-                        <parameterUnit>百分比</parameterUnit>
-</parameter>
-</time>
-                <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>0</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>0</parameterName>
+                        <parameterUnit>百分比</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>0</parameterName>
                         <parameterUnit>百分比</parameterUnit>
@@ -2044,53 +2044,53 @@
             <weatherElement>
                 <elementName>Wx</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>晴時多雲</parameterName>
                         <parameterValue>8</parameterValue>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>晴時多雲</parameterName>
                         <parameterValue>8</parameterValue>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>晴時多雲</parameterName>
-                        <parameterValue>8</parameterValue>
+                        <parameterName>多雲</parameterName>
+                        <parameterValue>2</parameterValue>
 </parameter>
 </time>
 </weatherElement>
             <weatherElement>
                 <elementName>MaxT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>19</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>29</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>25</parameterName>
-                        <parameterUnit>C</parameterUnit>
-</parameter>
-</time>
-                <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
-                    <parameter>
-                        <parameterName>21</parameterName>
-                        <parameterUnit>C</parameterUnit>
-</parameter>
-</time>
-                <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
-                    <parameter>
-                        <parameterName>27</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
@@ -2098,26 +2098,26 @@
             <weatherElement>
                 <elementName>MinT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>18</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>18</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>19</parameterName>
-                        <parameterUnit>C</parameterUnit>
-</parameter>
-</time>
-                <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
-                    <parameter>
-                        <parameterName>18</parameterName>
-                        <parameterUnit>C</parameterUnit>
-</parameter>
-</time>
-                <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
-                    <parameter>
-                        <parameterName>18</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
@@ -2125,22 +2125,22 @@
             <weatherElement>
                 <elementName>CI</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>稍有寒意</parameterName>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>稍有寒意至舒適</parameterName>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
-                    <parameter>
-                        <parameterName>稍有寒意至舒適</parameterName>
-</parameter>
-</time>
-                <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>稍有寒意至舒適</parameterName>
 </parameter>
@@ -2149,26 +2149,26 @@
             <weatherElement>
                 <elementName>PoP</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
-                    <parameter>
-                        <parameterName>10</parameterName>
-                        <parameterUnit>百分比</parameterUnit>
-</parameter>
-</time>
-                <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>0</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>10</parameterName>
+                        <parameterName>0</parameterName>
+                        <parameterUnit>百分比</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>0</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
@@ -2179,26 +2179,26 @@
             <weatherElement>
                 <elementName>Wx</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>多雲短暫雨</parameterName>
                         <parameterValue>12</parameterValue>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>多雲短暫雨</parameterName>
-                        <parameterValue>12</parameterValue>
+                        <parameterName>多雲時晴</parameterName>
+                        <parameterValue>7</parameterValue>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>多雲短暫雨</parameterName>
+                        <parameterName>多雲時陰短暫雨</parameterName>
                         <parameterValue>12</parameterValue>
 </parameter>
 </time>
@@ -2206,26 +2206,26 @@
             <weatherElement>
                 <elementName>MaxT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>19</parameterName>
+                        <parameterName>20</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>17</parameterName>
+                        <parameterName>26</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>19</parameterName>
+                        <parameterName>22</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
@@ -2233,26 +2233,26 @@
             <weatherElement>
                 <elementName>MinT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>15</parameterName>
+                        <parameterName>18</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>15</parameterName>
+                        <parameterName>18</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>15</parameterName>
+                        <parameterName>19</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
@@ -2260,50 +2260,50 @@
             <weatherElement>
                 <elementName>CI</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>寒冷至稍有寒意</parameterName>
+                        <parameterName>稍有寒意</parameterName>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>寒冷至稍有寒意</parameterName>
+                        <parameterName>稍有寒意至舒適</parameterName>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>寒冷至稍有寒意</parameterName>
+                        <parameterName>稍有寒意至舒適</parameterName>
 </parameter>
 </time>
 </weatherElement>
             <weatherElement>
                 <elementName>PoP</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>30</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>40</parameterName>
+                        <parameterName>10</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>30</parameterName>
+                        <parameterName>90</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
@@ -2314,53 +2314,53 @@
             <weatherElement>
                 <elementName>Wx</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>多雲短暫雨</parameterName>
+                        <parameterValue>12</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>多雲</parameterName>
                         <parameterValue>2</parameterValue>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>多雲</parameterName>
-                        <parameterValue>2</parameterValue>
-</parameter>
-</time>
-                <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
-                    <parameter>
-                        <parameterName>多雲</parameterName>
-                        <parameterValue>2</parameterValue>
+                        <parameterName>陰時多雲短暫雨</parameterName>
+                        <parameterValue>26</parameterValue>
 </parameter>
 </time>
 </weatherElement>
             <weatherElement>
                 <elementName>MaxT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>21</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>18</parameterName>
+                        <parameterName>26</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>22</parameterName>
+                        <parameterName>23</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
@@ -2368,26 +2368,26 @@
             <weatherElement>
                 <elementName>MinT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>18</parameterName>
+                        <parameterName>19</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>16</parameterName>
+                        <parameterName>19</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>16</parameterName>
+                        <parameterName>20</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
@@ -2395,22 +2395,22 @@
             <weatherElement>
                 <elementName>CI</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>稍有寒意至舒適</parameterName>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>稍有寒意</parameterName>
+                        <parameterName>稍有寒意至舒適</parameterName>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>稍有寒意至舒適</parameterName>
 </parameter>
@@ -2419,26 +2419,26 @@
             <weatherElement>
                 <elementName>PoP</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>0</parameterName>
+                        <parameterName>30</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
-                    <parameter>
-                        <parameterName>0</parameterName>
-                        <parameterUnit>百分比</parameterUnit>
-</parameter>
-</time>
-                <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>10</parameterName>
+                        <parameterUnit>百分比</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>30</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
@@ -2449,51 +2449,51 @@
             <weatherElement>
                 <elementName>Wx</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>多雲短暫雨</parameterName>
+                        <parameterValue>12</parameterValue>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>多雲時晴</parameterName>
                         <parameterValue>7</parameterValue>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>多雲</parameterName>
-                        <parameterValue>2</parameterValue>
-</parameter>
-</time>
-                <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
-                    <parameter>
-                        <parameterName>多雲</parameterName>
-                        <parameterValue>2</parameterValue>
+                        <parameterName>多雲時陰</parameterName>
+                        <parameterValue>5</parameterValue>
 </parameter>
 </time>
 </weatherElement>
             <weatherElement>
                 <elementName>MaxT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>22</parameterName>
+                        <parameterName>21</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>19</parameterName>
+                        <parameterName>27</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>23</parameterName>
                         <parameterUnit>C</parameterUnit>
@@ -2503,26 +2503,26 @@
             <weatherElement>
                 <elementName>MinT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>19</parameterName>
+                        <parameterName>20</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>17</parameterName>
+                        <parameterName>20</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>17</parameterName>
+                        <parameterName>20</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
@@ -2530,22 +2530,22 @@
             <weatherElement>
                 <elementName>CI</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>稍有寒意至舒適</parameterName>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>稍有寒意</parameterName>
+                        <parameterName>稍有寒意至舒適</parameterName>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>稍有寒意至舒適</parameterName>
 </parameter>
@@ -2554,24 +2554,24 @@
             <weatherElement>
                 <elementName>PoP</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>30</parameterName>
+                        <parameterUnit>百分比</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>10</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
-                    <parameter>
-                        <parameterName>0</parameterName>
-                        <parameterUnit>百分比</parameterUnit>
-</parameter>
-</time>
-                <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>20</parameterName>
                         <parameterUnit>百分比</parameterUnit>
@@ -2584,24 +2584,24 @@
             <weatherElement>
                 <elementName>Wx</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>晴時多雲</parameterName>
                         <parameterValue>8</parameterValue>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>晴時多雲</parameterName>
                         <parameterValue>8</parameterValue>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>晴時多雲</parameterName>
                         <parameterValue>8</parameterValue>
@@ -2611,26 +2611,26 @@
             <weatherElement>
                 <elementName>MaxT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
-                    <parameter>
-                        <parameterName>22</parameterName>
-                        <parameterUnit>C</parameterUnit>
-</parameter>
-</time>
-                <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>20</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>22</parameterName>
+                        <parameterName>25</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>21</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
@@ -2638,26 +2638,26 @@
             <weatherElement>
                 <elementName>MinT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
+                    <parameter>
+                        <parameterName>20</parameterName>
+                        <parameterUnit>C</parameterUnit>
+</parameter>
+</time>
+                <time>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>19</parameterName>
-                        <parameterUnit>C</parameterUnit>
-</parameter>
-</time>
-                <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
-                    <parameter>
-                        <parameterName>18</parameterName>
-                        <parameterUnit>C</parameterUnit>
-</parameter>
-</time>
-                <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
-                    <parameter>
-                        <parameterName>18</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
@@ -2665,22 +2665,22 @@
             <weatherElement>
                 <elementName>CI</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>稍有寒意至舒適</parameterName>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>稍有寒意</parameterName>
+                        <parameterName>稍有寒意至舒適</parameterName>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>稍有寒意至舒適</parameterName>
 </parameter>
@@ -2689,26 +2689,26 @@
             <weatherElement>
                 <elementName>PoP</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>0</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>0</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>0</parameterName>
+                        <parameterName>10</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
@@ -2719,53 +2719,53 @@
             <weatherElement>
                 <elementName>Wx</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>晴時多雲</parameterName>
                         <parameterValue>8</parameterValue>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>晴時多雲</parameterName>
-                        <parameterValue>8</parameterValue>
+                        <parameterName>多雲時晴</parameterName>
+                        <parameterValue>7</parameterValue>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>晴時多雲</parameterName>
-                        <parameterValue>8</parameterValue>
+                        <parameterName>多雲時陰</parameterName>
+                        <parameterValue>5</parameterValue>
 </parameter>
 </time>
 </weatherElement>
             <weatherElement>
                 <elementName>MaxT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>19</parameterName>
+                        <parameterName>17</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>16</parameterName>
+                        <parameterName>23</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>18</parameterName>
+                        <parameterName>20</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
@@ -2773,26 +2773,26 @@
             <weatherElement>
                 <elementName>MinT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>16</parameterName>
+                        <parameterName>17</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>13</parameterName>
+                        <parameterName>17</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>13</parameterName>
+                        <parameterName>18</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
@@ -2800,48 +2800,48 @@
             <weatherElement>
                 <elementName>CI</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>稍有寒意</parameterName>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>寒冷至稍有寒意</parameterName>
+                        <parameterName>稍有寒意至舒適</parameterName>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>寒冷至稍有寒意</parameterName>
+                        <parameterName>稍有寒意</parameterName>
 </parameter>
 </time>
 </weatherElement>
             <weatherElement>
                 <elementName>PoP</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>0</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>0</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>0</parameterName>
                         <parameterUnit>百分比</parameterUnit>
@@ -2854,53 +2854,53 @@
             <weatherElement>
                 <elementName>Wx</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>晴時多雲</parameterName>
-                        <parameterValue>8</parameterValue>
+                        <parameterName>多雲時晴</parameterName>
+                        <parameterValue>7</parameterValue>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>多雲短暫雨</parameterName>
-                        <parameterValue>12</parameterValue>
+                        <parameterName>多雲</parameterName>
+                        <parameterValue>2</parameterValue>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>多雲短暫雨</parameterName>
-                        <parameterValue>12</parameterValue>
+                        <parameterName>陰時多雲短暫雨</parameterName>
+                        <parameterValue>26</parameterValue>
 </parameter>
 </time>
 </weatherElement>
             <weatherElement>
                 <elementName>MaxT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>16</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>14</parameterName>
+                        <parameterName>20</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>16</parameterName>
+                        <parameterName>17</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
@@ -2908,26 +2908,26 @@
             <weatherElement>
                 <elementName>MinT</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>14</parameterName>
+                        <parameterName>15</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>13</parameterName>
+                        <parameterName>15</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>13</parameterName>
+                        <parameterName>16</parameterName>
                         <parameterUnit>C</parameterUnit>
 </parameter>
 </time>
@@ -2935,48 +2935,48 @@
             <weatherElement>
                 <elementName>CI</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>寒冷至稍有寒意</parameterName>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>寒冷</parameterName>
+                        <parameterName>寒冷至舒適</parameterName>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>寒冷至稍有寒意</parameterName>
+                        <parameterName>稍有寒意</parameterName>
 </parameter>
 </time>
 </weatherElement>
             <weatherElement>
                 <elementName>PoP</elementName>
                 <time>
-                    <startTime>2016-12-23T06:00:00+08:00</startTime>
-                    <endTime>2016-12-23T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T00:00:00+08:00</startTime>
+                    <endTime>2016-12-26T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>0</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-23T18:00:00+08:00</startTime>
-                    <endTime>2016-12-24T06:00:00+08:00</endTime>
+                    <startTime>2016-12-26T06:00:00+08:00</startTime>
+                    <endTime>2016-12-26T18:00:00+08:00</endTime>
                     <parameter>
-                        <parameterName>30</parameterName>
+                        <parameterName>0</parameterName>
                         <parameterUnit>百分比</parameterUnit>
 </parameter>
 </time>
                 <time>
-                    <startTime>2016-12-24T06:00:00+08:00</startTime>
-                    <endTime>2016-12-24T18:00:00+08:00</endTime>
+                    <startTime>2016-12-26T18:00:00+08:00</startTime>
+                    <endTime>2016-12-27T06:00:00+08:00</endTime>
                     <parameter>
                         <parameterName>30</parameterName>
                         <parameterUnit>百分比</parameterUnit>

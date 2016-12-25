@@ -1,4 +1,4 @@
-﻿# coding=utf-8
+﻿# -*- coding: utf-8 -*-
 from django.conf import settings
 
 from django.http import HttpResponse, HttpResponseBadRequest, HttpResponseForbidden
@@ -63,6 +63,7 @@ def wea(locate,day):
                                     for time in weather:
                                         if(time.tag=="{urn:cwb:gov:tw:cwbcommon:0.1}startTime" and time.text.find(str(day))!=-1):
                                             day1=True
+                                            
                                         if(time.tag=="{urn:cwb:gov:tw:cwbcommon:0.1}parameter" and day1==True):
                                             for ans in time:
                                                 if(ans.tag=="{urn:cwb:gov:tw:cwbcommon:0.1}parameterName"):
@@ -99,14 +100,14 @@ def callback(request):
 
                 if isinstance(event.message, TextMessage):
                         
-                    mes_seg=jieba.analyse.extract_tags(event.message.text)
+                    mes_seg=jieba.analyse.extract_tags(event.message.text, withWeight=False)
                     #if weather in text then parse weather xml
                     if(mes_seg[0]==u"天氣"):
                         if(mes_seg[2]==u"今天"):
                             day=today
                         elif(mes_seg[2]==u"明天"):
                             day=tommorrow
-                        
+                        print day
                         #臺和台都可以讀到 可以不加市
                         locate=mes_seg[1]
                         if(locate[0]==u"台"):
@@ -114,7 +115,8 @@ def callback(request):
                         if(len(locate)==2):
                             locate=locate[0:2]+u"市"
                         weather=wea(locate,day)
-                        t=mes_seg[2]+locate+weather
+                        print type(weather)
+                        t=mes_seg[2].encode("utf-8")+locate.encode("utf-8")+weather.encode("utf-8")
                     #else repeat what the user type
                     else:
                         t=event.message.text
