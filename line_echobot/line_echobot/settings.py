@@ -28,47 +28,6 @@ import string
 
 import random
 
-
-'''
-os.environ["SECRET_KEY"] = ''.join([random.SystemRandom().choice(chars) for i in range(50)])
-os.environ["LINE_CHANNEL_SECRET"] = "2a793d57de5b426e7eb88dec11ade45a"
-os.environ["LINE_CHANNEL_ACCESS_TOKEN"] = "zB0PweoC1FQ1GcgeECTibaUf+TGizDs50vAjetMezN3ub0ULhMTlLUJ/BM8rDgtm74bBToTWu1asLYnFyS0lSRMYwHw9DH/R9kp95ZJzOk5zBb4ThU2eNGz+bJfG6ADOeWDYOUcVuXUREajAqg1H3AdB04t89/1O/w1cDnyilFU="
-'''
-
-
-
-
-
-
-
-
-'''
-def get_env_variable(var_name):
-
-    try:
-        return os.environ[var_name]
-
-    except KeyError:
-        error_msg = 'Set the {} environment variable'.format(var_name)
-
-        #raise ImproperlyConfigured(error_msg)
-'''
-
-'''
-try:
-
-    from .settings_secret import *
-
-except ImportError:
-
-    SECRET_KEY = get_env_variable('SECRET_KEY')
-
-    LINE_CHANNEL_ACCESS_TOKEN = get_env_variable('LINE_CHANNEL_ACCESS_TOKEN')
-
-    LINE_CHANNEL_SECRET = get_env_variable('LINE_CHANNEL_SECRET')
-'''
-
-
 SECRET_KEY = os.environ["SECRET_KEY"]
 
 LINE_CHANNEL_ACCESS_TOKEN = os.environ["LINE_CHANNEL_ACCESS_TOKEN"]
